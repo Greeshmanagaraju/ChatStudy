@@ -1,5 +1,3 @@
-<img width="1918" height="1022" alt="image" src="https://github.com/user-attachments/assets/098fc814-688c-458a-abeb-ae696aac05d1" /><img width="1918" height="1022" alt="image" src="https://github.com/user-attachments/assets/098fc814-688c-458a-abeb-ae696aac05d1" /># Ex. No:1b 			Study of Client Server Chat Applications
-
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
