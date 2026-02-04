@@ -125,8 +125,8 @@ client.close()
 
 ## Output:
 
-<img width="1918" height="1022" alt="image" src="https://github.com/user-attachments/assets/6e4069b9-3d61-4859-9571-8dfa04958d5e" />
-<img width="1918" height="1022" alt="image" src="https://github.com/user-attachments/assets/31122237-c304-41d8-aac2-d23c7bd2471f" />
+<img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/081b9ec9-9015-43aa-8acc-c88519613b0d" />
+<img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/36c7e0f9-b947-4a6d-869d-0adabc01d72c" />
 
 ## Result:
 
