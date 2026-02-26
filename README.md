@@ -78,8 +78,6 @@ Create a TCP socket on both the client and server sides and The server binds to 
 ## Chatserver:
 ```
 import socket
-from base64 import decode
-from operator import truediv
 
 server =socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 server.bind(('localhost', 9999))
